@@ -1,2 +1,2 @@
 # react-seed
-Seed application for React JS + Gulp + browserify + reactify
+Seed application for React JS + ESLint + webpack
